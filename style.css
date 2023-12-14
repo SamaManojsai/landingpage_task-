@@ -1,0 +1,43 @@
+h1{
+color: white;
+}
+body{
+    color: white;
+    text-align: center;
+   background-color: black;
+   margin: 0px;
+   border: 38px solid green 
+}
+h2{
+    color: green;
+}
+p{
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+input{
+    height: 30px;
+    width: 200px;
+    border: 3px solid green;
+    border-radius: 30px;
+    font-size: 25px;
+    padding-left: 7%;
+} 
+form{
+    font-size: 25px;
+}
+button{
+    height: 35px;
+    width: 300px;
+    border: 3px solid white ;
+    border-radius: 30px;
+    font-size: 25px;
+    color: black ;
+    background-color:yellow ;
+    margin-bottom: 40px;
+}
+strike{
+    background-color: green;
+    color: white;
+}
